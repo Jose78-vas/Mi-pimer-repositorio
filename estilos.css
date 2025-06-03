@@ -42,7 +42,7 @@ nav a:hover {
 
 /* Hero Section */
 .hero {
-    background-image: url('img2.jpg');
+    background-image: url('imagenes/imagen5.jpeg');
     background-size: cover;
     background-position: center;
     color: white;
@@ -79,9 +79,11 @@ nav a:hover {
 .menu {
     padding: 3rem 2rem;
     text-align: center;
+    background-image: url('imagenes/1356733.jpeg');
 }
 
 .menu h2 {
+    color: #ddd;
     font-size: 2rem;
     margin-bottom: 2rem;
 }
